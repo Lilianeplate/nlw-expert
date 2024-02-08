@@ -124,7 +124,7 @@ const perguntas = [
           corretas.add(item)
         }
         
-        mostrarTotal.textContent = corretas.size + 'de' + totalDePerguntas
+        mostrarTotal.textContent = corretas.size + ' de ' + totalDePerguntas
         
       }
   
